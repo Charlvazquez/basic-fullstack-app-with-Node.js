@@ -1,0 +1,9 @@
+comandos para cuando se trabaje con express
+
+npm i expresss
+
+npm i ejs : para las templates
+
+npm i morgan : la parte de rutas y middleware
+
+npm i nodemon : para permitir el hacer ajustes en el sitio sin necesitas de prender y apagar el server.
